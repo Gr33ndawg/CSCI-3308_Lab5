@@ -1,1 +1,2 @@
-# CCI-3308_Lab5
+# CSCI-3308_Lab5
+# Daniel Green
